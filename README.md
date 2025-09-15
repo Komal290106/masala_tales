@@ -2,7 +2,7 @@
 
 A fine-dining Indian restaurant website built with **React**, **TypeScript**, and **Tailwind CSS**. Showcases menus, chef specials, events, customer reviews, and Instagram highlights with smooth **Framer Motion** animations.
 
-[![Demo](https://img.shields.io/badge/Live-Demo-blue)](https://your-live-demo-link.com)  
+[![Demo](https://img.shields.io/badge/Live-Demo-blue)](masala-tales.vercel.app)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
 
 ---
